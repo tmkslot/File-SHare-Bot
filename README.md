@@ -7,10 +7,10 @@
   <a href="https://telegram.me/COLD_ONEZ">
     <img src="https://telegram.me/COLD_ONEZ/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
   </a><br>
-  <a href="https://telegram.me/Mo_Tech_YT">
+  <a href="https://t.me/MovizHunt">
     &nbsp;<img src="https://img.shields.io/badge/MoTech-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
-  <a href="https://telegram.me/Mo_Tech_Group">
+  <a href="https://t.me/MovizHunt">
     &nbsp;<img src="https://img.shields.io/badge/MoTech-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <br>
@@ -101,7 +101,7 @@ python3 main.py
 
 
 ## Support   
-Join Our [Telegram Group](https://telegram.me/Mo_Tech_Group) For Support/Assistance.     
+Join Our [Telegram Group](https://t.me/MovizHunt) For Support/Assistance.     
 
 ### Credits
 
